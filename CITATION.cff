@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "OEM-Safe Stage 1 & Stage 2 Torque & Boost Calibration Software — Cars, Trucks & Boats (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/stage-1-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/stage1-stage2-remapping-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
